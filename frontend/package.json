@@ -13,11 +13,12 @@
     "@fortawesome/free-regular-svg-icons": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/vue-fontawesome": "^3.0.1",
-    "core-js": "^3.8.3",
+    "@volar-plugins/vetur": "latest",
+    "axios": "^1.1.3",
+    "core-js": "^3.26.1",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
-    "vuex": "^4.0.0",
-    "@volar-plugins/vetur": "latest"
+    "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
